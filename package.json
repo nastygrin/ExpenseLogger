@@ -1,14 +1,24 @@
 {
-  "name": "my-app",
+  "name": "ExpenseLogger",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.60",
+    "@speechly/react-client": "^1.1.0",
+    "@speechly/react-ui": "^2.3.1",
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "chart.js": "^3.0.0",
+    "react": "^16.12.0",
+    "react-chartjs": "^1.2.0",
+    "react-chartjs-2": "^4.0.1",
+    "react-dom": "^16.12.0",
+    "react-donut-chart": "^1.2.1",
     "react-scripts": "5.0.0",
+    "uuid": "^8.3.2",
     "web-vitals": "^2.1.3"
   },
   "scripts": {
